@@ -6,3 +6,5 @@ and simply type 'python main.py' and it should lauch
 if this is to fail deu to the error 'thingy has no module' replace thing with whatever pops up
 go into the dist there will be a onefile exe for you wich works on windows computers without pyton 
 installed so if that doesn't work ... get good
+
+and yes i know i'm late, i may have gotten lost in what i was doing and forgot the time
